@@ -4,3 +4,7 @@
 <img width="1675" height="986" alt="Screenshot 2025-12-04 at 2 39 16 PM" src="https://github.com/user-attachments/assets/9d77da9c-e207-4303-8109-10aad5598a5d" />
 <img width="1675" height="986" alt="Screenshot 2025-12-04 at 2 46 16 PM" src="https://github.com/user-attachments/assets/0ae002d8-235b-4f8c-b0f1-cdd694cad05b" />
 <img width="1675" height="986" alt="Screenshot 2025-12-04 at 2 52 50 PM" src="https://github.com/user-attachments/assets/7754e66d-58d2-406d-8fe1-6f2faee95836" />
+
+https://github.com/Ghita-Takouit/tp19-gateway
+https://github.com/Ghita-Takouit/tp19-client
+https://github.com/Ghita-Takouit/tp19-voiture
